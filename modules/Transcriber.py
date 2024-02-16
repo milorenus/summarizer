@@ -19,7 +19,10 @@ class Transcriber:
         os.makedirs("chunked/media", exist_ok=True)
 
         # Load the audio file
-        audio = AudioSegment.from_mp3(audio_file_path)
+        if audio_file_path.endswith('mp3'):
+            audio = AudioSegment.from_mp3(audio_file_path)
+        else:
+            audio = AudioSegment.from_wav(audio_file_path)
         chunk_length_ms = 10000  # Duration of each audio chunk in milliseconds (10 seconds)
         chunks = make_chunks(audio, chunk_length_ms)
         full_transcript = []
