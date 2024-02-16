@@ -56,5 +56,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# export OPENAI_API_KEY='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'
