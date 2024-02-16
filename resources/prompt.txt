@@ -1,0 +1,10 @@
+
+Write a summray document from the converstion transcript bellow in korean language if the original text is in english. 
+The transcript was generated from an audio file divided in chunks of 10 seconds.
+So each line is 10 seconds of the audio transcribed on the foramt: speaker(start_time-end_time): transcript.
+Write a summray that has:
+     1. Title of the converstion obtained from your understanding of conversation
+     2. The transcript of the conversation: from the original bellow transcript, keep the speaker,  mix chunks that seem to be from the same sentence and corresponding timestamps. It is also important to know that timestamps of the two audio may have relative offset to it is impotant to realigne them based on conversation context.
+     3. Question raised by the student and associated answers fromt the teacher (if there is, if not the write NONE)
+     4. Assignement given by the teacher(if there is, if not the write NONE)
+     5. summray of the conversation
