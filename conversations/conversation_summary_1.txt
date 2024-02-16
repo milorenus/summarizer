@@ -1,0 +1,221 @@
+Teacher(20 sec – 30 sec): 안녕하세요 숙제해 온 거 먹이고 붙이는 걸로 시작할게요
+Teacher(3 min  – 3 min 10 sec): 그러면은
+Teacher(3 min 10 sec – 3 min 20 sec): 여기서 5번이랑 6분 별표를 먼저 해결하고
+Teacher(3 min 20 sec – 3 min 30 sec): 이걸 바탕으로 해서이 페이지에 틀린 거 한번 고쳐 가요
+Teacher(3 min 30 sec – 3 min 40 sec): 이창수 와인에 2x + 2의 제곱 - 사람의 그래프가 모든 4분면에 지나도록
+Teacher(3 min 40 sec – 3 min 50 sec): 삼촌 구하라고 했어요
+Teacher(3 min 50 sec – 4 min ): 아니라는 거 생각해 줘야 하고 얘가 이렇게 그림 그려 준 것처럼 모든 면이 지내려고 하는데
+Teacher(4 min  – 4 min 10 sec): 그러면은 내가 엑스 꼭짓점의 좌표가 - 2 - 3
+Teacher(4 min 10 sec – 4 min 20 sec): 현서 모델 그거를 크다
+Teacher(4 min 20 sec – 4 min 30 sec): 그러면은 어 아래가 별로긴 상태에서 내가 만약에 - 2 - 4
+Teacher(4 min 30 sec – 4 min 40 sec): 근데 얘가 아래 블록 있더라도 입점을 지난다 하면은
+Teacher(4 min 40 sec – 4 min 50 sec): y 값이 큰애가 되면은 여기 140 년이나 되는 거잖아
+Teacher(4 min 50 sec – 5 min ): 무조건네 그러면은
+Teacher(5 min  – 5 min 10 sec): 얘가 0보다 작아야 하니까
+Teacher(5 min 10 sec – 5 min 20 sec): 만족하다 값이 거기는 0보다 크고 50보다 작다
+Teacher(5 min 20 sec – 5 min 30 sec): 이창수
+Teacher(5 min 30 sec – 5 min 40 sec): x 제곱 플러스 오른쪽 그림과 같은 일 때 다음 중 옳은 것을 모두 고르시오라고 했어요
+Teacher(5 min 40 sec – 5 min 50 sec): 말해 볼래 애인이 0보다 큰 거고 예 꼭짓점의 좌표가 지금 피콘 막혀 있는데
+Teacher(5 min 50 sec – 6 min ): 때문에 보다 크고 Q는 0 보다
+Teacher(6 min  – 6 min 10 sec): 내가 지금 x가 0일 때 그 와인을 페인트 크기
+Teacher(6 min 10 sec – 6 min 20 sec): 크기 때문에 x 가영이 때 y 값은 옵티머스 Q 이게 0보다 크다
+Teacher(6 min 20 sec – 6 min 30 sec): 어 그러면 요걸 바탕으로 기역 니은 디귿 기역 8 5 0 보다
+Teacher(6 min 30 sec – 6 min 40 sec): 커피도 연구 다 크니까 a + b의 내용보다 클 거예요 10가지 괜찮아요
+Teacher(6 min 30 sec – 6 min 40 sec):  그다음 지은
+Teacher(6 min 40 sec – 6 min 50 sec): 보다 크고 휴가 0보다 작으니까 a q는 0보다 작아야 할 거예요 그래서 오늘 틀렸고 그럼
+Teacher(6 min 50 sec – 7 min ): p - qp20 보다 크고 Q는 0보다 작으니까
+Teacher(7 min  – 7 min 10 sec): 이거 이게 돼요 그 다음에 피카츄를 보면은
+Teacher(7 min 10 sec – 7 min 20 sec): 키는 0보다 크고 크는 0보다 작잖아요
+Teacher(7 min 20 sec – 7 min 30 sec): 그러면 이게 0보다 크다 맞는 건데
+Teacher(7 min 30 sec – 7 min 40 sec): 틀렸고 그러면 안 되는 것 다 이해됐어요
+Teacher(7 min 40 sec – 7 min 50 sec): 아 그리고 7번 더 있고 실버는 오른쪽 그림과 같이 이제 이찬수
+Teacher(7 min 50 sec – 8 min ): + 6일 그래프를 내 꼭짓점을 a 그리고 y 축 y 조정을 지라고 할 수 있대
+Teacher(8 min  – 8 min 10 sec): 얘네가 지금 수선의 발을 내린게 쉬라고 했어요 이때 삼각형 abc 넓이를 구하라고 했는데 꼭짓점에
+Teacher(8 min 20 sec – 8 min 30 sec): 콤마 u b의 좌표는 뭐예요
+Teacher(8 min 40 sec – 8 min 50 sec): 연꽃말 X10 저번 얼마예요
+Teacher(8 min 50 sec – 9 min ): 연꽃 말이에요 점심은 점의 2에서 내린 수선의 버리니까 이거 차 표 얼마예요
+Teacher(9 min  – 9 min 10 sec): 내가 제이콤마 역이에요 삼각형 넓이 구하는
+Teacher(9 min 10 sec – 9 min 20 sec): 이거 고칠 수 있겠지
+Teacher(9 min 20 sec – 9 min 30 sec): 그러면은 137 번 지금 해 볼까요
+Teacher(12 min 50 sec – 13 min ): 여기 cm 안 나와 있어서 16만 그래도 괜찮음
+Teacher(13 min  – 13 min 10 sec): 1번만 다시 풀어 볼까요
+Teacher(13 min 40 sec – 13 min 50 sec): 혹시 어떻게 풀었는지 줄 수 있어요
+Teacher(13 min 50 sec – 14 min ): 네
+Teacher(14 min  – 14 min 10 sec): 근데 살아 있는 것도 아니고
+Teacher(14 min 20 sec – 14 min 30 sec): 다시 해 볼까요
+Teacher(15 min 50 sec – 16 min ): 응
+Teacher(16 min  – 16 min 10 sec): 어떻게 해
+Teacher(16 min 20 sec – 16 min 30 sec): 그러니까
+Teacher(16 min 30 sec – 16 min 40 sec): 있지 않은 거
+Teacher(16 min 40 sec – 16 min 50 sec): 아까 말했던 대로 심심한데 없겠죠
+Teacher(16 min 50 sec – 17 min ): 어쩐지 약간
+Teacher(17 min  – 17 min 10 sec): 얘는 이제 그래프 면은 a 값이 클수록 엑셀 값이 조금만 변해도 y 값이 크게
+Teacher(17 min 10 sec – 17 min 20 sec): 폭이 좁아지게
+Teacher(17 min 20 sec – 17 min 30 sec): 이게 포기
+Teacher(17 min 30 sec – 17 min 40 sec): 절댓값 절대값이
+Teacher(17 min 40 sec – 17 min 50 sec): 절대값으로 얘기한다 나는 거
+Teacher(17 min 50 sec – 18 min ): 필요 없고 죽을 뻔
+Teacher(18 min  – 18 min 10 sec): 그래서
+Teacher(18 min 10 sec – 18 min 20 sec): 면은 독해질 숫자 그러니까 개수가 변하지 않아요 그러니까 포기하거나 아래 불러오기로
+Teacher(18 min 20 sec – 18 min 30 sec): 바뀌지 않는다고 2만큼 평행이동 있다 그러면은 i-
+Teacher(18 min 30 sec – 18 min 40 sec): 1대 1
+Teacher(24 min 30 sec – 24 min 40 sec): 교육 잘 했고 그 다음에 13번
+Teacher(24 min 40 sec – 24 min 50 sec): 일차함수의 그래프가 오른쪽 그림과 같은 물어봤어요
+Teacher(25 min  – 25 min 10 sec): 차이가 안 나는 거 같은데 한 번만 다시 풀어 볼래요
+Teacher(29 min 30 sec – 29 min 40 sec): 다 풀었어요 13번
+Teacher(29 min 40 sec – 29 min 50 sec): 한 번만 다시 풀어볼까요 근데 일단 A가 0보다 큰
+Teacher(29 min 50 sec – 30 min ): 보다 크다고 생각할 이유가 뭐예요
+Teacher(30 min  – 30 min 10 sec): 근데 아니잖아요 직선이 오른쪽 아래
+Teacher(30 min 10 sec – 30 min 20 sec): 기울기가 양순재음 승지는 바로 알 수 있
+Teacher(30 min 20 sec – 30 min 30 sec): 그러면은 시집가면
+Teacher(30 min 40 sec – 30 min 50 sec): 여기서 그래프 근데 오른쪽 위로
+Teacher(30 min 50 sec – 31 min ): 네
+Teacher(31 min  – 31 min 10 sec): 그러면은 이번에 오른쪽 아래로 가는 값이 증가할때 이건 기울기가 음수
+Teacher(31 min 10 sec – 31 min 20 sec): 다시 한번 풀어 볼까요
+Teacher(32 min 30 sec – 32 min 40 sec): 63분
+Teacher(32 min 40 sec – 32 min 50 sec): 옵시다
+Teacher(33 min 10 sec – 33 min 20 sec): 일차함수의 그래프를 보고 이걸 바탕으로
+Teacher(33 min 20 sec – 33 min 30 sec): 찾는 거 잖아요
+Teacher(33 min 30 sec – 33 min 40 sec): 왜냐면은 위로 블록이 생길 수도 있고
+Teacher(33 min 40 sec – 33 min 50 sec): 뭐가 있을 때 a x 제곱 플러스 B B가 양수 음수
+Teacher(33 min 50 sec – 34 min ): 집가 달라지고 그러는 거 잖아요 그래서 일단 애인이랑 뒤에 부호로 알아야 돼요
+Teacher(34 min  – 34 min 10 sec): a랑 b
+Teacher(34 min 10 sec – 34 min 20 sec): 비가 양수인 이유는 뭐예요
+Teacher(34 min 20 sec – 34 min 30 sec): 뉴욕이랑 관련된 것
+Teacher(34 min 30 sec – 34 min 40 sec): 그러면은 방금 말했던 것처럼 엑셀값이 증가하고
+Teacher(34 min 40 sec – 34 min 50 sec): 여기 a랑 B 둘 중에 기울기를 의미하는게 누구예요
+Teacher(34 min 50 sec – 35 min ): 그럼 비는
+Teacher(35 min 20 sec – 35 min 30 sec): 뒤로 어떻게 개선할 수 있을 것 같아요
+Teacher(35 min 40 sec – 35 min 50 sec): y는 ax+b y
+Teacher(35 min 50 sec – 36 min ): 네 엄마 여기 비 많이 남아요 맞죠
+Teacher(36 min  – 36 min 10 sec): 맞죠
+Teacher(36 min 20 sec – 36 min 30 sec): 영인 걸 데이트하면 되겠죠
+Teacher(36 min 30 sec – 36 min 40 sec): 콤마 비를 지점을
+Teacher(36 min 40 sec – 36 min 50 sec): 표시해 줄래요 어딘지 뭘 지나고 있는지
+Teacher(37 min  – 37 min 10 sec): 홍콩 나비를 찍으면 되잖아요 거기가 어디예요
+Teacher(37 min 10 sec – 37 min 20 sec): 음식 양식
+Teacher(37 min 10 sec – 37 min 20 sec):  그럼 비는 무엇일까요
+Teacher(37 min 20 sec – 37 min 30 sec): 비가
+Teacher(37 min 30 sec – 37 min 40 sec): 이거 용풍압 이라면서요 B 잖아요
+Teacher(37 min 40 sec – 37 min 50 sec): 비가 양세형 시에요
+Teacher(37 min 50 sec – 38 min ): 이게 돼요 이게 진짜 이게 됐어요 헷갈리면 다시 봐야 돼요
+Teacher(38 min  – 38 min 10 sec): 이해가 안 돼요
+Teacher(38 min 10 sec – 38 min 20 sec): 개념이라서 제가
+Teacher(38 min 20 sec – 38 min 30 sec): 없으면
+Teacher(38 min 30 sec – 38 min 40 sec): 예를 들어서 이렇게 돼
+Teacher(38 min 40 sec – 38 min 50 sec): 1기가 양순자 y 절편을 어떻고 x 절편은 양순이 아웃은 야 이걸 써 볼래요
+Teacher(38 min 50 sec – 39 min ): 아 그리고
+Teacher(38 min 50 sec – 39 min ):  직업
+Teacher(39 min  – 39 min 10 sec): 양수면 + 음수면
+Teacher(40 min 30 sec – 40 min 40 sec): y 절편이랑 X 절편이 개념임
+Teacher(40 min 40 sec – 40 min 50 sec): y 절편은
+Teacher(40 min 50 sec – 41 min ): x가 그러면은
+Teacher(41 min  – 41 min 10 sec): 일차함수에서 일차함수 y가
+Teacher(41 min 10 sec – 41 min 20 sec): 숙이랑 만날 때고 x가 영일 때는 와이 축과 지경이에요
+Teacher(41 min 20 sec – 41 min 30 sec): 다시 봐라 자는 여기 있대
+Teacher(41 min 30 sec – 41 min 40 sec): 그러니까 춥고
+Teacher(41 min 40 sec – 41 min 50 sec): x 절편 값이네 거 X 축 y
+Teacher(41 min 50 sec – 42 min ): 그때 엑셀 X 축 y 존 점이에요
+Teacher(45 min 30 sec – 45 min 40 sec): y 절편 다 싶은 거예요
+Teacher(45 min 40 sec – 45 min 50 sec): 왔는데 y 절편 완전 다 반대로 했어요 그 y 절편을 어떻게 풀었어요
+Teacher(46 min  – 46 min 10 sec): 얘를 타고 y 축 y 2점 그 지점을 표시를 해 볼래요
+Teacher(46 min 10 sec – 46 min 20 sec): 어디에 있어요 y 값이 양순재 음순
+Teacher(46 min 20 sec – 46 min 30 sec): y 절편을 왜 양배추라고
+Teacher(46 min 40 sec – 46 min 50 sec): 이거 어떻게 풀었는지 설명해 주세요
+Teacher(46 min 50 sec – 47 min ): 근데 그건 아까도 말했듯이 길게 해당되는 거잖아
+Teacher(47 min  – 47 min 10 sec): x 절편 y 절편을 다른 거 잖아요
+Teacher(47 min  – 47 min 10 sec):  기울기
+Teacher(47 min 10 sec – 47 min 20 sec): 급식 증가할때 와이파이 없이 증가한다 이거는 기울기가 양수이다를 설명해 주는 거고
+Teacher(47 min 20 sec – 47 min 30 sec): 저는 계속 말하지만 X 축 y 결점이라고 y 축
+Teacher(47 min 30 sec – 47 min 40 sec): 봅시다
+Teacher(47 min 40 sec – 47 min 50 sec): 이 와인 ax+b 그래프 -60 1학년 콜
+Teacher(47 min 50 sec – 48 min ): 예 기울기 내일이랑 x 절편 하고 y 절편 구한다
+Teacher(50 min 40 sec – 50 min 50 sec): -6 405b
+Teacher(51 min  – 51 min 10 sec): 차표 없이 잘 편이기 때문에 결국이 비가 와 이제 편이에요
+Teacher(51 min 10 sec – 51 min 20 sec): 기울기는 어떻게 구했어요
+Teacher(51 min 20 sec – 51 min 30 sec): 그 과정 한번 보여 줄래요
+Teacher(51 min 40 sec – 51 min 50 sec): 아 절편
+Teacher(51 min 50 sec – 52 min ): 그러면은 그 계산과정 여기서 주세요
+Teacher(52 min 30 sec – 52 min 40 sec): 여기
+Teacher(52 min 40 sec – 52 min 50 sec): 얼마예요 잠깐만요 색깔을 바꿔 볼게요 여기저기 표 얼마예요 여기서
+Teacher(52 min 50 sec – 53 min ): 네네
+Teacher(53 min  – 53 min 10 sec): -6 콤바인은
+Teacher(53 min 10 sec – 53 min 20 sec): 걸
+Teacher(53 min 20 sec – 53 min 30 sec): 역이라서 전혀 상관이 없는데
+Teacher(53 min 20 sec – 53 min 30 sec):  그리고 애초에 이거
+Teacher(53 min 30 sec – 53 min 40 sec): 운전 하고 있는데 기울기가 수가 없죠 오른쪽
+Teacher(53 min 40 sec – 53 min 50 sec): 양수인 서류를 해 줄 수 있어요
+Teacher(54 min 20 sec – 54 min 30 sec): 생각을 해 봤는데 그 전에도 뭔가 개념을 까먹어서 못 푸는 것들
+Teacher(54 min 30 sec – 54 min 40 sec): 그래서 제가 생각했을 때는 지금 하고 있는데
+Teacher(54 min 40 sec – 54 min 50 sec): 중학교 3학년 1학기 다시
+Teacher(54 min 50 sec – 55 min ): 보내게 좋을 거 같거든요 지금 창녕 더 낮은 거 한다고 해서 막 그렇게 큰일이 나는게 아니라
+Teacher(55 min  – 55 min 10 sec): 계속 그 상태로 가면을 나중에 더 큰 지금 잡아 주는게 진짜 훨씬 낫거든요 다시 이거
+Teacher(55 min 10 sec – 55 min 20 sec): 볼 수 있을 때 최대한 빨리 이거를 회복 해 놓는게 좋으니까 제가 생각했을 때
+Teacher(55 min 20 sec – 55 min 30 sec): 1학년이랑 2학년 거를 다 책을 샀는데 좋을 것 같아요 그래 가지고
+Teacher(55 min 30 sec – 55 min 40 sec): 마친 경우에는 내용이 어렵진 않은데 얘 개념을 다시 한번 읽고 문제를 풀고 이해를 해 가지고
+Teacher(55 min 40 sec – 55 min 50 sec): 이 뒤에 학년 중학교 3학년이나 몰고 7시 이런 문제들을 풀 수 있어
+Teacher(55 min 50 sec – 56 min ): 1학기 2학기도 있으니까 1학년 1학기 거 1학년 2학기부터 시작해서
+Teacher(56 min  – 56 min 10 sec): 우리가 이번 달부터 시작해서 겨울방
+Teacher(56 min 10 sec – 56 min 20 sec): 까지 한다면은 해가지고 개념을 다 채워 넣는 걸로 하는 거 어떨까요 괜찮아
+Teacher(56 min 20 sec – 56 min 30 sec): 아 그래요 그러면은 우리가 이거를 다시 푸는게 좋을 거 같아요
+Teacher(56 min 30 sec – 56 min 40 sec): 등록되어 있으면 어 교재 등록되어 있으면 이거를 따로 책을 안 사도 문제를
+Teacher(56 min 40 sec – 56 min 50 sec): 있는 거죠 아 그래요 그럼 지금
+Teacher(56 min 50 sec – 57 min ): 다시 문제를 풀 수 있는 거면은 깨끗한 상태에서 다시 풀 수 있으면 어 아니네 생각해 보니까
+Teacher(57 min  – 57 min 10 sec): 설탭 자체에서 제공해 주는 문제도 있잖아요 그거 확인해 보고 숙제로 보내
+Teacher(57 min 10 sec – 57 min 20 sec): 그래서 개는 제가 따로 사용하기 보다는 숙제를 해 와 가지고 그거를 내려서 상태 체크를 하는 정도
+Teacher(57 min 20 sec – 57 min 30 sec): 복습하는 걸로 하고 체크체크 진도는 앞으로도 쭉 계속 이렇게 나가는 걸로 할게요 그리고
+Teacher(57 min 30 sec – 57 min 40 sec): 오이 키우기 같은 경우에는 왜 얘가 오른쪽 위로가 기울기가 양수인 건지
+Teacher(57 min 40 sec – 57 min 50 sec): 개념이랑 1차함수의 성질을 바탕으로 해서 다음 시간에 저한테 설명을 할 수
+Teacher(57 min 50 sec – 58 min ): 숙제 그러니까 다음 시간까지이 개념에 대해서 복습을 꼭 해 봐야 돼요 알겠지
+Teacher(58 min  – 58 min 10 sec): 지금 서술형 문제
+Teacher(58 min 10 sec – 58 min 20 sec): 서술형 문제도 보니까 얘가 지금 다 됐고 15분
+Teacher(58 min 20 sec – 58 min 30 sec): 이런 19분이 특히 그렇고 14번을 이천
+Teacher(58 min 30 sec – 58 min 40 sec): 이차함수 할 때 이차함수
+Teacher(58 min 40 sec – 58 min 50 sec): 내가 배고파
+Teacher(58 min 50 sec – 59 min ): 똑같은 거예요 이차함수의 개념을 바탕으로 해도 충분히 해결할 수 있을 거예요 그래서
+Teacher(59 min  – 59 min 10 sec): 들고
+Teacher(59 min 10 sec – 59 min 20 sec): 다음 시간까지 숙제를 서술형 문제 고쳐 오는 거랑 일차함수 개념이 쳐가지고 저한테
+Teacher(59 min 20 sec – 59 min 30 sec): 어떻게 그려지는 관계 설명해 오는 거 하고 제가 중학교 1학년 때
+Teacher(59 min 30 sec – 59 min 40 sec): 보내 드릴테니까 그거 문제 푸는 것도 숙제로 할게요 괜찮아요 오늘 수업은 일단 여기서 맞을까요
+Teacher(59 min 40 sec – 59 min 45 sec): 예 수고하셨습니다
+Student(4 min 30 sec – 4 min 40 sec): 넹 넹
+Student(6 min 10 sec – 6 min 20 sec): 네
+Student(8 min 50 sec – 9 min ): 넹
+Student(12 min  – 12 min 10 sec): 사고쳤어요
+Student(13 min 20 sec – 13 min 30 sec): 홈플러스
+Student(13 min 30 sec – 13 min 40 sec): 색칠 한 부분은 사고 다 쓰고 가져 거야
+Student(15 min 30 sec – 15 min 40 sec): 고쳤어요
+Student(15 min 50 sec – 16 min ): 밑의 제곱
+Student(16 min 30 sec – 16 min 40 sec): 색칠한 거 보면 자꾸
+Student(24 min 30 sec – 24 min 40 sec): 넹
+Student(29 min 10 sec – 29 min 20 sec): 네
+Student(29 min 40 sec – 29 min 50 sec): 이렇게만 나오는데
+Student(29 min 40 sec – 29 min 50 sec):  귀신 사진
+Student(30 min  – 30 min 10 sec): 네
+Student(30 min 50 sec – 31 min ): 음식
+Student(32 min 10 sec – 32 min 20 sec): 들었어요
+Student(32 min 40 sec – 32 min 50 sec): 특히 살짝 이해가 안가 어떤
+Student(32 min 50 sec – 33 min ): 못 한 거
+Student(33 min  – 33 min 10 sec): 맥
+Student(33 min 40 sec – 33 min 50 sec): 이거 시간
+Student(34 min 20 sec – 34 min 30 sec): 응
+Student(35 min 40 sec – 35 min 50 sec): 근데
+Student(36 min  – 36 min 10 sec): 에이페어
+Student(36 min 10 sec – 36 min 20 sec): 왜
+Student(37 min  – 37 min 10 sec): 0시
+Student(37 min 10 sec – 37 min 20 sec): 네
+Student(37 min 50 sec – 38 min ): 조찬미
+Student(38 min  – 38 min 10 sec): 추억이란
+Student(40 min 20 sec – 40 min 30 sec): 마이 젝시믹스
+Student(40 min 20 sec – 40 min 30 sec):  택시 값
+Student(42 min 40 sec – 42 min 50 sec): 지금 오는 거죠
+Student(45 min 40 sec – 45 min 50 sec): 시끄러
+Student(46 min 30 sec – 46 min 40 sec): 엑스칼리버
+Student(47 min 40 sec – 47 min 50 sec): 네
+Student(51 min  – 51 min 10 sec): 재생
+Student(51 min 10 sec – 51 min 20 sec): 차출
+Student(51 min 20 sec – 51 min 30 sec): 그렇게 들었어
+Student(51 min 40 sec – 51 min 50 sec): 네
+Student(53 min 10 sec – 53 min 20 sec): 네
+Student(56 min  – 56 min 10 sec): 교제 등등이 스쿨
+Student(56 min 20 sec – 56 min 30 sec): 그 전에 한 번 더 해서 싸 가지고

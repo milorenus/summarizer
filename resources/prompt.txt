@@ -1,0 +1,17 @@
+Write a summray document from the converstion transcript bellow translated in korean if it is in english.
+The transcript was generated from an audio file divided in chunks of 10 seconds.
+So each line is 10 seconds of the audio transcribed on the foramt: speaker(start_time-end_time): transcript.
+All the 'Teacher' speesh comes first associated with timestamps and the 'Student' speech comes after.
+There might be offset between timestamps of the student and teacher.
+Write a summray that has:
+     1. Title of the converstion obtained from your understanding of conversation
+     2. The transcript of the conversation: from the original bellow transcript, keep the speaker,  
+         mix chunks(and corresponding timestamps) that seem to be from the same sentence but where cut by the limitation of 10 seconds.
+         also organize the transcript based on timestamps order and context of the conversation.
+     3. Question raised by the student and associated answers fromt the teacher (if there is, if not the write NONE)
+     4. Assignement given by the teacher
+     5. summray of the conversation
+
+please do not add any comment but simply output the foramt requested all in korean. 
+
+The conversation transcript:
