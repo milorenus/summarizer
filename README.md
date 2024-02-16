@@ -4,7 +4,7 @@ Summarize tutoring conversation between a teacher and student using audio files
 # Requirement
 - Install required libraries with: `pip3 install -r requirements.txt`
 - Set OpenAI API key with: `export OPENAI_API_KEY='You-API-Key'`
-- Download Google speech credentials to `'resources/'` and rename it to 'sa.json'
+- Download Google speech API's credentials to `'resources/'` and rename it to 'sa.json'
 
 # Running the code
 - To run the code from examples (no audi but from text example): </br>
